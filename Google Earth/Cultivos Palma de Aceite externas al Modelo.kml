@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cultivos Palma de Aceite externas al Modelo</name>
+	<description>Cultivos de palma de aceite para validación del modelo de CNN, de las zonas de Choco y Nariño de Colombia</description>
+	<StyleMap id="__managed_style_00B25DAA062980AE27E5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CFEAB007D2980AE27E5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24E3A65F6E2980AE27E5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_23B7F3A4592980A2619B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2074&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B6999D9C12980A2619B">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2074&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_24E3A65F6E2980AE27E5">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2130&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08CCAAC1FC2980A2619B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B6999D9C12980A2619B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_23B7F3A4592980A2619B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_24C48277EC2980A1704D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2074&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1CFEAB007D2980AE27E5">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2130&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_140F29836E2980A1704D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2074&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0691265B612980A1704D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_140F29836E2980A1704D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24C48277EC2980A1704D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0FBAAE09A42980A12D55">
+		<name>Chigorodo Choco</name>
+		<LookAt>
+			<longitude>-76.70922734077953</longitude>
+			<latitude>7.669087029922858</latitude>
+			<altitude>26.85305108923015</altitude>
+			<heading>-1.583725057324004e-05</heading>
+			<tilt>0.1866568599258183</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>12937.86056539742</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0691265B612980A1704D</styleUrl>
+		<Point>
+			<coordinates>-76.70550399830708,7.669215737092967,26.91035579619918</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="073998A13C2980A1BE5D">
+		<name>Chigorodo Colombia 2 </name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite</div>]]></description>
+		<LookAt>
+			<longitude>-76.69761610211984</longitude>
+			<latitude>7.616459562339944</latitude>
+			<altitude>21.49511939962312</altitude>
+			<heading>-1.594461460329138e-05</heading>
+			<tilt>0.1863702332415392</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3134.899366282043</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08CCAAC1FC2980A2619B</styleUrl>
+		<Point>
+			<coordinates>-76.69786788670926,7.617946543226404,21.52158457938235</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="000A3A00B22980A2E583">
+		<name>Chigorodo Choco 3</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite</div>]]></description>
+		<LookAt>
+			<longitude>-76.73946874669282</longitude>
+			<latitude>7.633393305786548</latitude>
+			<altitude>13.82871938842937</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1813.482496236102</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08CCAAC1FC2980A2619B</styleUrl>
+		<Point>
+			<coordinates>-76.73884964135074,7.633724178108095,13.36260999028271</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FBB6E519C2980A3C399">
+		<name>Chirgorodo Choco 4</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aciete&nbsp;</div>]]></description>
+		<LookAt>
+			<longitude>-76.66837711391281</longitude>
+			<latitude>7.640906612251745</latitude>
+			<altitude>32.60669645078067</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1485.861288530723</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08CCAAC1FC2980A2619B</styleUrl>
+		<Point>
+			<coordinates>-76.66835724094743,7.64130546570671,33.73292371998189</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0075F1AC122980A4DFDE">
+		<name>Chigorodo Choco 5</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite&nbsp;</div>]]></description>
+		<LookAt>
+			<longitude>-76.73396852422499</longitude>
+			<latitude>7.644027443559056</latitude>
+			<altitude>19.14263030239632</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2014.45842701738</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08CCAAC1FC2980A2619B</styleUrl>
+		<Point>
+			<coordinates>-76.73431942118509,7.64486344847753,16.97569364346066</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04647A8C9B2980ADD183">
+		<name>Nariño 1</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite</div>]]></description>
+		<LookAt>
+			<longitude>-78.74361697157009</longitude>
+			<latitude>1.472204579841173</latitude>
+			<altitude>25.28705765088828</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>34021.32488464471</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00B25DAA062980AE27E5</styleUrl>
+		<Point>
+			<coordinates>-78.70953838961834,1.44975575432372,33.51619592671685</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09093D8B9E2980AE5FC0">
+		<name>Nariño 2</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite</div>]]></description>
+		<LookAt>
+			<longitude>-78.7478107071147</longitude>
+			<latitude>1.450607935715355</latitude>
+			<altitude>31.12035048149301</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>22908.74662402784</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00B25DAA062980AE27E5</styleUrl>
+		<Point>
+			<coordinates>-78.74659455489143,1.45676272365795,28.12517410088395</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032CA3149E2980AEEF07">
+		<name>Nariño 3</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite</div>]]></description>
+		<LookAt>
+			<longitude>-78.72904507748251</longitude>
+			<latitude>1.497404367014242</latitude>
+			<altitude>47.30025757408688</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6877.040710542353</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00B25DAA062980AE27E5</styleUrl>
+		<Point>
+			<coordinates>-78.72895379094503,1.501305504353753,45.36954625519739</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="084F9B215C2980AF687C">
+		<name>Nariño 4</name>
+		<description><![CDATA[<div>Cultivos de palma de aceite&nbsp;</div>]]></description>
+		<LookAt>
+			<longitude>-78.79705758691813</longitude>
+			<latitude>1.538965738084995</latitude>
+			<altitude>59.36687007683982</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5453.827453266713</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00B25DAA062980AE27E5</styleUrl>
+		<Point>
+			<coordinates>-78.80002356645646,1.543033440716348,61.98231520599708</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E5C006B002980AFCC21">
+		<name>Nariño 5 </name>
+		<description><![CDATA[<div>Cultivos de palma de aceite</div>]]></description>
+		<LookAt>
+			<longitude>-78.79772526576141</longitude>
+			<latitude>1.531103845060531</latitude>
+			<altitude>54.86701089230229</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3077.69241554226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00B25DAA062980AE27E5</styleUrl>
+		<Point>
+			<coordinates>-78.79884706155667,1.532663602671317,58.66128752247342</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

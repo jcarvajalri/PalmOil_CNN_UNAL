@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1ZT-UzoYILn_HRjdlQ99-kDe02GXN3DwF">
+	<name>DataSet Zonas de Cultivos de Palma de Aceite Colombia</name>
+	<description>El siguiente proyecto hace parte de Maestria de Ingenieria de Sistemas y Computación de la Universidad Nacional de colombia. En estas zonas se encuentran monocultivos de palma de Aciete en Colombia.</description>
+	<gx:CascadingStyle kml:id="__managed_style_3299048D392980EE8F80">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffa726&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_06F91E50A32980EE8F80">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_1D1ED237492980EE8F80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2039E6D92C2980EE8F80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_3299048D392980EE8F80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_40498F5F9D2980EE8F7F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffee58&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_174A75D9C12980EE8F7D">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3FBBB3358F2980EE8F7F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_40498F5F9D2980EE8F7F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_06F91E50A32980EE8F80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1A800477D12980EE8F7F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2039E6D92C2980EE8F80">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=ffa726&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_05C0D0E86D2980EE8F7E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2A1DCF14782980EE8F7E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04AF396DC62980EE8F7D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_174A75D9C12980EE8F7D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_05C0D0E86D2980EE8F7E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_190FCC79E82980EE8F7E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_2A1DCF14782980EE8F7E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_363917ED1D2980EE8F7E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2F5FE0FE292980EE8F7F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=66bb6a&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_00E729D1FD2980EE8F7F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A800477D12980EE8F7F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F5FE0FE292980EE8F7F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_363917ED1D2980EE8F7E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=f57c00&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="0B5ACBBE3B27EF389404">
+		<name>Vereda Carretal - Magdalena</name>
+		<description><![CDATA[<div>Vereda Carretal Magdalena<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.31388396157099</longitude>
+			<latitude>10.63787140868291</latitude>
+			<altitude>16.91705853508499</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>23119.1576919565</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04AF396DC62980EE8F7D</styleUrl>
+		<Point>
+			<coordinates>-74.34659449183918,10.63152451118795,13.81420931463074</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1BFB9C6127EF3A6C7F">
+		<name>Vereda los Guayabos - Magdalena</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite Vereda los Guayabos Magdalena<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.24098150479135</longitude>
+			<latitude>10.68020986627384</latitude>
+			<altitude>24.64644080504662</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>19605.76590307988</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04AF396DC62980EE8F7D</styleUrl>
+		<Point>
+			<coordinates>-74.24888937775287,10.70101041099089,26.87645466539848</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AAB8A234227EF3F2F12">
+		<name>Santa Cruz - Magdalena</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite Santa Cruz Vereda la Granja<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.29203540142869</longitude>
+			<latitude>10.69401244226762</latitude>
+			<altitude>11.48407010003953</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11128.48736481741</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04AF396DC62980EE8F7D</styleUrl>
+		<Point>
+			<coordinates>-74.291345112191,10.69150271247155,16.46527468050503</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="075813E4DD27EF4303E1">
+		<name>La Granja -Magdalena</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite la Granja Magdalena<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.24408955976214</longitude>
+			<latitude>10.63593815268669</latitude>
+			<altitude>26.86052617624632</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>22661.26326405444</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04AF396DC62980EE8F7D</styleUrl>
+		<Point>
+			<coordinates>-74.23332331730769,10.63330253165864,31.39985906505972</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A22D12C1F27EF456092">
+		<name>La Calma - Magdalena</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite la Calma<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.19687671845134</longitude>
+			<latitude>10.77602656950575</latitude>
+			<altitude>18.02223071315722</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6787.859241671395</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04AF396DC62980EE8F7D</styleUrl>
+		<Point>
+			<coordinates>-74.18962049742615,10.81527027104377,16.53772424152451</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00AF69A0A627EF4A0A24">
+		<name>San Luis - Cesar</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite San Luis Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-74.01144683600299</longitude>
+			<latitude>10.18058086955248</latitude>
+			<altitude>124.9750327714695</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>22774.99444616726</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_190FCC79E82980EE8F7E</styleUrl>
+		<Point>
+			<coordinates>-74.02880675212832,10.19210997365469,120.2286872530493</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0244465B0A27EF4AF3E1">
+		<name>Agriasdulces - Cesar</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite AgriasDulces Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-74.01764664600329</longitude>
+			<latitude>10.14585433244571</latitude>
+			<altitude>105.8659223860428</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>22958.97934240988</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_190FCC79E82980EE8F7E</styleUrl>
+		<Point>
+			<coordinates>-74.04552065482265,10.15047277342473,108.6808206369264</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="036716BD4627EF4B98F9">
+		<name>El Delirio -  Cesar </name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite el Delirio Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-74.0093967283361</longitude>
+			<latitude>10.12232553071564</latitude>
+			<altitude>101.6885384491586</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>35422.69965154119</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_190FCC79E82980EE8F7E</styleUrl>
+		<Point>
+			<coordinates>-74.03705251192156,10.09185506658664,88.38186239587897</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA83152DE27EF56CBB3">
+		<name>Bella Cruz - Cesar</name>
+		<description><![CDATA[<div>Cultivo de palma de Aceite Bella Criz Cesar<br></div>]]></description>
+		<LookAt>
+			<longitude>-73.74244134960273</longitude>
+			<latitude>8.624562452501694</latitude>
+			<altitude>32.6856207048902</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>52673.97746759467</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_190FCC79E82980EE8F7E</styleUrl>
+		<Point>
+			<coordinates>-73.70478079482341,8.635152952465271,70.27682821288934</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011064A29C27EF5A575E">
+		<name>Las Minas - Cesar</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite LAs minas Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-73.43914031506105</longitude>
+			<latitude>7.869845643614928</latitude>
+			<altitude>104.7878544553778</altitude>
+			<heading>-0.05156059006168384</heading>
+			<tilt>0.4120634038052984</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>33899.22899963335</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_190FCC79E82980EE8F7E</styleUrl>
+		<Point>
+			<coordinates>-73.46171509659673,7.889686851584138,93.91812442030587</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="049106671A27F1C1C26F">
+		<name>La Llana - Cesar</name>
+		<description><![CDATA[<div>CUltivos de Palma de Aceite La llana Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-73.39671545079281</longitude>
+			<latitude>7.754589361418981</latitude>
+			<altitude>121.5565338373026</altitude>
+			<heading>-0.0515609214780812</heading>
+			<tilt>0.4143121790585463</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>68854.24697203563</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_190FCC79E82980EE8F7E</styleUrl>
+		<Point>
+			<coordinates>-73.44453164995022,7.697452784288545,92.4956930145472</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00630B4E8127F1C56033">
+		<name>Maribel - Santander</name>
+		<description><![CDATA[<div>Maribel Santander - Cultivos de Palma de Aceite</div>]]></description>
+		<LookAt>
+			<longitude>-73.37418032325063</longitude>
+			<latitude>7.436992920404333</latitude>
+			<altitude>138.2843670503997</altitude>
+			<heading>-0.05156019040092303</heading>
+			<tilt>0.411113674234211</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>19137.70744888578</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_00E729D1FD2980EE8F7F</styleUrl>
+		<Point>
+			<coordinates>-73.38148313946525,7.438038220025881,125.7756045668951</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05D149037927F1C9906F">
+		<name>San Gayetano - Meta </name>
+		<description><![CDATA[<div>Cultivos de palma de Aceite San Gayetano Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.60719389845454</longitude>
+			<latitude>3.981815418448484</latitude>
+			<altitude>396.2411313228242</altitude>
+			<heading>-0.05156020506834197</heading>
+			<tilt>0.4109011017748719</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>15834.69854397699</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3FBBB3358F2980EE8F7F</styleUrl>
+		<Point>
+			<coordinates>-73.61067505961252,3.979302347988663,398.7414653289845</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07668AFFAA27F1CC6911">
+		<name>Popeya - Meta</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite Pompeya<br></div>]]></description>
+		<LookAt>
+			<longitude>-73.37753451939649</longitude>
+			<latitude>3.923486972053309</latitude>
+			<altitude>268.1267974784463</altitude>
+			<heading>-0.05156019856480502</heading>
+			<tilt>0.4101725536741647</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4510.258483132348</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3FBBB3358F2980EE8F7F</styleUrl>
+		<Point>
+			<coordinates>-73.3788020516287,3.923239873982594,268.5090166730789</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DBB5DBBF027F1CE744A">
+		<name>Vera Cruz - Meta </name>
+		<description><![CDATA[<div>Cultivos de palama de Aceite&nbsp; Vera Cruz Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.26177482886612</longitude>
+			<latitude>4.203763594369244</latitude>
+			<altitude>224.8003579285355</altitude>
+			<heading>-0.05141834072179019</heading>
+			<tilt>0.3860535254545436</tilt>
+			<gx:fovy>34.99999989464244</gx:fovy>
+			<range>21474.3906895048</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3FBBB3358F2980EE8F7F</styleUrl>
+		<Point>
+			<coordinates>-73.25470103320576,4.224333997902439,234.8235493312861</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06E81763E827F1CF471A">
+		<name>Floralta - Meta</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite Floranta -Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.15283183822959</longitude>
+			<latitude>4.107204281073095</latitude>
+			<altitude>197.213665327639</altitude>
+			<heading>-0.05141882682991863</heading>
+			<tilt>0.3863144528731424</tilt>
+			<gx:fovy>34.99999989464244</gx:fovy>
+			<range>25795.10610264726</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3FBBB3358F2980EE8F7F</styleUrl>
+		<Point>
+			<coordinates>-73.15031108309576,4.109407937564502,203.4739485184811</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D8826FECB27F1D02907">
+		<name>Pompeya - Meta</name>
+		<description><![CDATA[<div>Cultivos de palma de Aceite Pompeya Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.23818972370307</longitude>
+			<latitude>3.938600636650701</latitude>
+			<altitude>229.4771221051331</altitude>
+			<heading>-0.05141895710425645</heading>
+			<tilt>0.3854667491330537</tilt>
+			<gx:fovy>34.99999989464244</gx:fovy>
+			<range>11757.95981273521</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3FBBB3358F2980EE8F7F</styleUrl>
+		<Point>
+			<coordinates>-73.2383373631375,3.942833908019982,224.8675746693872</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03593A250B27F1D28B00">
+		<name>Mapiripán -  Casanare</name>
+		<description><![CDATA[<div>Cultivos de palma de aceite Mapiripan Casanare<br></div>]]></description>
+		<LookAt>
+			<longitude>-72.07980795960553</longitude>
+			<latitude>2.918355411256624</latitude>
+			<altitude>185.2123081605056</altitude>
+			<heading>-0.051418733027927</heading>
+			<tilt>0.3855273196129224</tilt>
+			<gx:fovy>34.99999989464244</gx:fovy>
+			<range>12761.27618391998</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1D1ED237492980EE8F80</styleUrl>
+		<Point>
+			<coordinates>-72.0897246457908,2.929798551312425,180.1334629471853</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F1F70AABB27F1D3DF48">
+		<name>El Estereo - Meta</name>
+		<description><![CDATA[<div>Cultivos de Palma de Aceite El Estereo Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.37773211583867</longitude>
+			<latitude>3.797178857007036</latitude>
+			<altitude>262.7789180073314</altitude>
+			<heading>-0.05088095455645535</heading>
+			<tilt>0.3172724565273525</tilt>
+			<gx:fovy>34.99999418118965</gx:fovy>
+			<range>37308.01972633693</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3FBBB3358F2980EE8F7F</styleUrl>
+		<Point>
+			<coordinates>-73.37958358717324,3.826994366140771,263.4147552711492</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

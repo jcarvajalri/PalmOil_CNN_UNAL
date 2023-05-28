@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1Imp5OquoafUh4bdMF1YKw2mMNx-JKfzI">
+	<name>DataSet Zonas adyacentes Cultivos de Palma de aceite en Colombia</name>
+	<description>El siguiente proyecto hace parte de la maestría de ingeniería en Sistemas y computación de la Universidad Nacional de Colombia. Estas son zonas adyacentes a cultivos de palma de aceite en Colombia. Tiene como objetivo la ubicación para un dataset de zonas planas (llanas) que no continene cultivos de palma de aceite. </description>
+	<gx:CascadingStyle kml:id="__managed_style_4351C328E02980EEAA45">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3750D4763D2980EEAA45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4351C328E02980EEAA45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5E3A0930612980EEAA45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2F715B71752980EEAA45">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0FDF5C8CA12980EEAA45">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_19CEB48ED82980EEAA45</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F715B71752980EEAA45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5E3A0930612980EEAA45">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=42a5f5&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_399ACE46A72980EEAA44">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=7b1fa2&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19CEB48ED82980EEAA45">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=5c6bc0&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_1C5F1C6D822980EEAA43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_223B2A56302980EEAA43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0FEB0DE57B2980EEAA44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_25E9A700302980EEAA44">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=7b1fa2&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_1F1C60B9462980EEAA44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_25E9A700302980EEAA44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_399ACE46A72980EEAA44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0C67CC66BB2980EEAA43">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=00796b&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_249743D9BD2980EEAA42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_3282BAA0652980EEAA42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0C67CC66BB2980EEAA43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0FEB0DE57B2980EEAA44">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_3282BAA0652980EEAA42">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=00796b&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_223B2A56302980EEAA43">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=388e3c&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_184DF9C0712980EEAA42">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_09F973D1322980EEAA42">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2396&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_03588394A32980EEAA41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_09F973D1322980EEAA42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_184DF9C0712980EEAA42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="04C67E979B287F9F52E8">
+		<name>SiPuedes-Magdalena</name>
+		<description><![CDATA[<div>Si Puedes - Magdalena</div>]]></description>
+		<LookAt>
+			<longitude>-74.38317090012626</longitude>
+			<latitude>10.22279534057735</latitude>
+			<altitude>104.8001631243589</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>9127.069396883016</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03588394A32980EEAA41</styleUrl>
+		<Point>
+			<coordinates>-74.37269223600947,10.22108563622269,109.3270416957943</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03EB6071CD287FA105D0">
+		<name>LaUnion - Magdalena</name>
+		<description><![CDATA[<div>La Unión -Magdalena</div>]]></description>
+		<LookAt>
+			<longitude>-74.35916426915558</longitude>
+			<latitude>10.19211748915006</latitude>
+			<altitude>126.8591628072177</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>11467.2800827038</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03588394A32980EEAA41</styleUrl>
+		<Point>
+			<coordinates>-74.35909382470618,10.19294948364422,124.6341838184603</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C4ADA2DAA287FA20D1E">
+		<name>Pueblo Barrios Magdalena</name>
+		<description><![CDATA[<div>Pueblo Barrios Magdalena</div>]]></description>
+		<LookAt>
+			<longitude>-74.35820673270257</longitude>
+			<latitude>10.16391826473477</latitude>
+			<altitude>145.7293373324746</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>9325.58015819639</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03588394A32980EEAA41</styleUrl>
+		<Point>
+			<coordinates>-74.35425498392414,10.16746969706931,145.8670358094593</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0233CBF4C5287FA2D928">
+		<name>Cuatro Caminos Magdalena</name>
+		<description><![CDATA[<div>Cuatro Caminos Magdalena</div>]]></description>
+		<LookAt>
+			<longitude>-74.36729350437162</longitude>
+			<latitude>10.14278240257742</latitude>
+			<altitude>137.7118889430317</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>5513.861514866003</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03588394A32980EEAA41</styleUrl>
+		<Point>
+			<coordinates>-74.36570230127431,10.13988298459747,138.5509576108814</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011615E4FC287FA3A3E5">
+		<name>Santa Barbara Magdalena</name>
+		<description><![CDATA[<div>Santa Barbara Magdalena</div>]]></description>
+		<LookAt>
+			<longitude>-74.29731667522007</longitude>
+			<latitude>10.18823778344794</latitude>
+			<altitude>169.4597252860764</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>12127.46563108522</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03588394A32980EEAA41</styleUrl>
+		<Point>
+			<coordinates>-74.29239901204791,10.19300446271406,165.5139355229209</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC9EC7C59287FA63CB4">
+		<name>La Lomita Magdalena</name>
+		<description><![CDATA[<div>La Lomita Magdalena</div>]]></description>
+		<LookAt>
+			<longitude>-74.29614519881152</longitude>
+			<latitude>10.15393979257501</latitude>
+			<altitude>169.3117532885304</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>7455.497964323733</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_03588394A32980EEAA41</styleUrl>
+		<Point>
+			<coordinates>-74.29555030791472,10.15195784007003,173.3191810208226</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FE4D41807287FA7D659">
+		<name>La Reserva Cesar</name>
+		<description><![CDATA[<div>La Reserva Cesar<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.00473821040393</longitude>
+			<latitude>10.06077639349849</latitude>
+			<altitude>86.20761364436873</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>12834.68798502814</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-73.95297746713899,10.0577050183484,86.17834474006652</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04D65424EF287FAB19C9">
+		<name>Alejandria Cesar</name>
+		<description><![CDATA[<div>Alejandria Cesar<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.00446097749031</longitude>
+			<latitude>10.12604242837784</latitude>
+			<altitude>100.6244641964017</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>4122.6748789649</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-73.96835655084055,10.1313280006141,100.7312696825724</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="070FCF9D11287FAC6034">
+		<name>El Ensueño Cesar</name>
+		<description><![CDATA[<div>El Ensueño Cesar<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.11012846885808</longitude>
+			<latitude>10.15920921207435</latitude>
+			<altitude>98.93299522223087</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>7273.144029392863</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-74.16615394532947,10.17258548257333,95.69302629160903</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D2EC8617287FAD33DD">
+		<name>BellaVista Cesar</name>
+		<description><![CDATA[<div>BellaVista<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.09801615606752</longitude>
+			<latitude>10.09272270475824</latitude>
+			<altitude>83.95950891741167</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>7255.638081306824</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-74.13142665085088,10.09437925730019,83.74960423947564</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D524624B1287FADDB0B">
+		<name>Palma de Vino Cesar</name>
+		<description><![CDATA[<div>Palma de Vino Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-73.97465221445172</longitude>
+			<latitude>10.03906487455438</latitude>
+			<altitude>75.35760263898189</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>7013.521540820366</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-73.969654575589,10.0353315312662,70.91719115722493</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F875B111287FAE8EDB">
+		<name>Potosi Cesar</name>
+		<description><![CDATA[<div>Potosi Cesar<br></div>]]></description>
+		<LookAt>
+			<longitude>-74.00120052923415</longitude>
+			<latitude>10.00617860362957</latitude>
+			<altitude>69.64302477487624</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>8258.447141196813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-73.94154006482948,10.01186118829331,72.37874867662316</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00A54471F1287FAF7DAC">
+		<name>Pijinal Cesar</name>
+		<description><![CDATA[<div>Pijinal Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-73.94176188576095</longitude>
+			<latitude>9.815495842354158</latitude>
+			<altitude>60.93287716088015</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.71452337824767</gx:fovy>
+			<range>8073.866673361044</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-73.94235626220225,9.816227935562562,60.99884411911526</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DD368D94B287FB066E4">
+		<name>Bosconia Cesar</name>
+		<description><![CDATA[<div>Bosconia Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-73.88851349792597</longitude>
+			<latitude>9.940982745236553</latitude>
+			<altitude>70.83467447320326</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6877.127487474354</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-73.88331935393262,9.939011714054152,70.92872666247916</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C1D6D3DEE287FB2DCCA">
+		<name>Buerto Patino Cesar</name>
+		<description><![CDATA[<div>Buerto Patino Cesar</div>]]></description>
+		<LookAt>
+			<longitude>-73.68605756308773</longitude>
+			<latitude>8.090034288700842</latitude>
+			<altitude>62.69541003679949</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>12697.84298830899</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-73.69138631560388,8.078318714895209,37.30941285583011</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0693049A56287FB3CFC7">
+		<name>Puerto Victoria Norte de Santander</name>
+		<description><![CDATA[<div>Puerto Victoria Norte de Santander<br></div>]]></description>
+		<LookAt>
+			<longitude>-73.49334150398366</longitude>
+			<latitude>7.560043883763885</latitude>
+			<altitude>86.16548385753579</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>13275.85597386584</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1C5F1C6D822980EEAA43</styleUrl>
+		<Point>
+			<coordinates>-73.68428191924276,7.739869366219871,90.22763209937956</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0985648CAE287FB46486">
+		<name>Los llaneros Norte de Santander</name>
+		<description><![CDATA[<div>Los llaneros Santander</div>]]></description>
+		<LookAt>
+			<longitude>-73.48140463070011</longitude>
+			<latitude>7.527050892923602</latitude>
+			<altitude>84.28199374364924</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10807.71977324272</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1C5F1C6D822980EEAA43</styleUrl>
+		<Point>
+			<coordinates>-73.48878276237932,7.51594245708706,85.76310289848075</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="052CE8D17A287FB6364F">
+		<name>El Cacique Cesar</name>
+		<description><![CDATA[<div>El cacique CEsar</div>]]></description>
+		<LookAt>
+			<longitude>-73.48178455715394</longitude>
+			<latitude>8.021427749534006</latitude>
+			<altitude>123.2670085306566</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5473.010717863217</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_249743D9BD2980EEAA42</styleUrl>
+		<Point>
+			<coordinates>-73.47784074047868,8.020793547072987,122.6652570123429</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C3E9E67D9287FB7BBA2">
+		<name>La Porfia Meta</name>
+		<description><![CDATA[<div>La Porfia Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.23258388616638</longitude>
+			<latitude>4.075932000367105</latitude>
+			<altitude>224.1917147804761</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5974.504249789753</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F1C60B9462980EEAA44</styleUrl>
+		<Point>
+			<coordinates>-73.23028289633821,4.076915640398791,224.3990016306365</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D82DE7328287FB8C4C3">
+		<name>San Antonio Meta</name>
+		<description><![CDATA[<div>San Antonio Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.20033299666078</longitude>
+			<latitude>4.018749808365345</latitude>
+			<altitude>213.3021484799983</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999650505256</gx:fovy>
+			<range>6565.052422763547</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F1C60B9462980EEAA44</styleUrl>
+		<Point>
+			<coordinates>-73.19656089412953,4.017188623067618,213.8586852912831</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09CD8C3A63287FB9ACF0">
+		<name>San Jorge Meta</name>
+		<description><![CDATA[<div>San Jorge Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.28066118425538</longitude>
+			<latitude>4.024763375827614</latitude>
+			<altitude>234.0336965287152</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999650505256</gx:fovy>
+			<range>9388.115917160176</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F1C60B9462980EEAA44</styleUrl>
+		<Point>
+			<coordinates>-73.27411890580136,4.029457567110298,234.2895575206477</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09FF0BA82B287FC513C0">
+		<name>La liberta Meta</name>
+		<description><![CDATA[<div>La Liberta Meta</div>]]></description>
+		<LookAt>
+			<longitude>-73.46950782588715</longitude>
+			<latitude>4.067618527383256</latitude>
+			<altitude>323.179622194562</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999650505256</gx:fovy>
+			<range>14834.23023620155</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F1C60B9462980EEAA44</styleUrl>
+		<Point>
+			<coordinates>-73.4671493241952,4.063003860512125,318.6841445488246</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="077156DE84287FC60049">
+		<name>El pororio Casanare</name>
+		<description><![CDATA[<div>El pororio Casanare<br></div>]]></description>
+		<LookAt>
+			<longitude>-72.84358238506877</longitude>
+			<latitude>2.827119318447575</latitude>
+			<altitude>203.5619705881288</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999650505256</gx:fovy>
+			<range>23264.98892207863</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0FDF5C8CA12980EEAA45</styleUrl>
+		<Point>
+			<coordinates>-72.85025972984671,2.825558417557214,198.228157868435</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1BFD6DD4287FC688BB">
+		<name>Puerto Palomas Casanare</name>
+		<description><![CDATA[<div>Puerto Palomas Casanare<br></div>]]></description>
+		<LookAt>
+			<longitude>-72.8370397903269</longitude>
+			<latitude>2.767879553852103</latitude>
+			<altitude>200.141050040443</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999650505256</gx:fovy>
+			<range>15212.64589458704</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3750D4763D2980EEAA45</styleUrl>
+		<Point>
+			<coordinates>-72.83555374983504,2.766395240983769,199.304919668444</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
