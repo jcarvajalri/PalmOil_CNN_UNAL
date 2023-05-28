@@ -9,7 +9,7 @@ Contienene el script [DataSetPalmOil.ipynb](https://pages.github.com/) para ejec
 
 ## 2. Google Earth
 
-En la carpeta de [Google Earth] (https://www.google.com/intl/es/earth/) se encuentran los siguientes archivos: 
+En la carpeta de [Google Earth](https://www.google.com/intl/es/earth/) se encuentran los siguientes archivos: 
 
 - DataSet Zonas de Cultivos de Palma de Aceite Colombia 
 - DataSet Zonas adyacentes Cultivos de Palma de aceite en Colombia
@@ -19,7 +19,7 @@ Para abrir los archivos proceda a descargarlos y abrirlos por medio de Googe Ear
 
 ## 3. Google Earth Engine
 
-En la carpeta se encuentran los siguientes archivos, para ejecutarlos debe crear una cuenta en [Google Earth Engine] (https://earthengine.google.com/) crear un script y copiar el contenido. 
+En la carpeta se encuentran los siguientes archivos, para ejecutarlos debe crear una cuenta en [Google Earth Engine](https://earthengine.google.com/) crear un script y copiar el contenido. 
 
 - Donwload_S1_S2_Transormation.js
 - ExternalImages.js
