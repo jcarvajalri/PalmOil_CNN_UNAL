@@ -31,7 +31,5 @@ En esta carpeta se encuentran los siguientes notebook de python. Para ejecutarlo
 - CNN_RestNet50_PalmOil.ipynb
 - Image Resizing and Classification.ipynb
 
-Adicionalmente se encuentra el modelo de CNN Resnet50 entrenado: 
-
--4model_ResNet50_PalmOilDef.h5
+Adicionalmente en el siguiente link [Zenodo](https://zenodo.org/record/7979649) se encuentras todas las imagenes con las que se procedio a realizar el entrenamiento, validación y pruebas. Tambien dado queque GitHub no permite la subida de archivos de más de 25 megas , en este repositorio se encuentra el modelo definitivo ResNet50 4model_ResNet50_PalmOilDef.h5
 
